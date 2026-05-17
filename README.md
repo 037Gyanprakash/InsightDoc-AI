@@ -5,6 +5,12 @@ It delivers **precise, context-faithful answers** by combining semantic retrieva
 
 ---
 
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/0dcff0d6-7798-45bf-ab5e-428bb4758fd1
+
+---
+
 ## 🧠 System Overview
 
 - **Architecture**: Retrieval-Augmented Generation (RAG)
