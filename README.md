@@ -150,8 +150,8 @@ python evaluation/ragas_eval.py
 
 ## 👤 Author
 
-**Jayesh Dethe**
-GitHub: [https://github.com/Its-Itachi](https://github.com/037Gyanprakash)
+**Gyanprakash Yadav**
+GitHub: [https://github.com/037Gyanprakash](https://github.com/037Gyanprakash)
 
 ---
 
